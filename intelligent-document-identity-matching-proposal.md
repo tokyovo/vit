@@ -115,7 +115,6 @@ To develop an AI-powered platform specifically for academic institutions that en
 ### Phase 3: Enhanced Academic Features (6-8 weeks, 360-480 hours)
 
 #### Advanced AI Capabilities (150-200 hours)
-- **Multi-language Document Processing**: Expand OCR to support 20+ languages for international students
 - **Plagiarism Detection**: Integrate academic integrity checking for submitted documents
 - **Grade Prediction Models**: AI-powered academic performance forecasting
 - **Automated Course Recommendation**: Based on student transcripts and career goals
