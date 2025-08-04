@@ -1,4 +1,4 @@
-# AI-Powered Academic Document Verification & Identity Matching Platform
+# AI-Powered Document Verification & Identity Matching System
 
 **Date:** 04/08/2025  
 **Prepared by:** Nhat Vo
