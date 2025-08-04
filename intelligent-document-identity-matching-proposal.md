@@ -17,22 +17,30 @@ To develop an AI-powered platform that facilitates:
 
 ## 2. Academic Application Scope
 
-### A. Document Processing
-- OCR for transcripts, certificates, and academic documents
-- Document classification and validation
-- Multilingual support for international students
+### A. Document Comparison & Processing
 
-### B. Examination Identity Verification
-- Cross-testing center student verification using facial recognition
-- VLM-powered document and face analysis
-- Real-time photo matching with anti-spoofing detection
-- Centralized candidate database across multiple venues
-- Mobile verification app for test center staff
+- **Document Format Support**:
+  - PDF and image processing
+  - Dynamic format handling
+  - Multi-lingual document support (CHM)
+  - Marksheets and transcripts processing
 
-### C. Credit Transfer Analysis
-- Course content comparison using NLP
-- Learning outcomes mapping (CLO to ULO)
-- Credit equivalency recommendations
+### B. Identity Verification & Photo Matching
+
+- **Hall Ticket & ID Verification**:
+  - Photo matching with hall tickets
+  - Application level verification (against database)
+  - Entry point verification (live checking)
+  - Manual override capability with AI/ML training integration
+
+### C. Government Data Integration
+
+- **Data Access & API Integration**:
+  - Government database connectivity
+  - Educational institution data access
+  - State Open API integration
+  - Image recognition capabilities
+  - OCR for all document types
 
 ---
 
