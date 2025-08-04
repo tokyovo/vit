@@ -52,12 +52,6 @@ To develop an AI-powered platform specifically for academic institutions that en
   - Document classification & NLP for content comparison.
   - Context-aware AI models for document matching.
 
-- **Data Access & Integration**:
-  - Educational institution database connectivity.
-  - Government education APIs and regulatory bodies.
-  - Student information systems (SIS) integration.
-  - Real-time data synchronization across academic institutions.
-
 - **Real-Time Capabilities**:
   - Live document scanning and OCR processing.
   - Instant identity verification at application and entry points.
@@ -78,11 +72,6 @@ To develop an AI-powered platform specifically for academic institutions that en
   - University-specific workflows for admissions and registrar offices.
   - Continuous learning from academic expert corrections.
 
-- **Security**:
-  - Educational compliance (FERPA, data privacy regulations).
-  - End-to-end encryption for student documents and identity data.
-  - Role-based access control for university staff and administrators.
-
 ---
 
 ## 5. Initial Development & Customer Handover Plan
@@ -90,23 +79,23 @@ To develop an AI-powered platform specifically for academic institutions that en
 ### Phase 1: Core System Development (1-2 months, 400-600 hours)
 
 #### Backend Development (200-300 hours)
-- Academic API endpoints and database design for student data
-- Authentication system with university role-based access (JWT)
-- Academic document upload/storage system (transcripts, certificates)
-- OCR integration for academic documents (Google Vision/AWS Textract)
-- Student information system (SIS) integration
+- Basic API endpoints and database design
+- Authentication system (JWT)
+- Document upload/storage system
+- OCR integration (Google Vision/AWS Textract)
+- Basic data management functionality
 
 #### Frontend Development (120-180 hours)
-- University web interface for admissions and registrar staff
-- Academic document upload and management portal
-- Student identity verification interface
-- University admin panels for credit transfer management
+- Simple web interface
+- Document upload and management portal
+- Identity verification interface
+- Basic admin panel
 
 #### AI/ML Development (80-120 hours)
-- VLM integration for academic document analysis and matching
-- Student face ID/photo verification system with liveness detection
-- Academic content comparison engine for credit transfer
-- Academic document classification models (transcripts, certificates, mark sheets)
+- VLM integration for document analysis and matching
+- Face ID/photo verification system with liveness detection
+- Basic content comparison engine
+- Document classification models (transcripts, certificates, mark sheets)
 
 **Team Required:** 2-3 Developers, 1 ML Engineer
 **Estimated Cost:** $60K-90K
