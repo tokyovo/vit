@@ -92,4 +92,4 @@ To develop an AI-powered platform specifically for academic institutions that en
 #### AI/ML Development (40-60 hours)
 - Basic VLM integration
 - Simple face verification
-- Document classification
+- Document matching
