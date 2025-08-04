@@ -93,6 +93,3 @@ To develop an AI-powered platform specifically for academic institutions that en
 - Basic VLM integration
 - Simple face verification
 - Document classification
-
-**Team Required:** 2 Developers, 1 ML Engineer
-**Estimated Cost:** $35K-50K
