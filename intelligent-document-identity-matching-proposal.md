@@ -76,33 +76,33 @@ To develop an AI-powered platform specifically for academic institutions that en
 
 ## 5. Initial Development & Customer Handover Plan
 
-### Phase 1: Core System Development (4-6 weeks, 240-360 hours)
+### Phase 1: Core System Development (8-12 weeks, 480-720 hours)
 
-#### Backend Development (120-180 hours)
+#### Backend Development (240-360 hours)
 - Basic API endpoints and database
 - Simple authentication
 - Document upload/storage
 - OCR integration
 
-#### Frontend Development (80-120 hours)
+#### Frontend Development (160-240 hours)
 - Basic web interface
 - Document upload page
 - Simple admin panel
 
-#### AI/ML Development (40-60 hours)
+#### AI/ML Development (80-120 hours)
 - Basic VLM integration
 - Simple face verification
 - Document matching
 
-### Phase 2: Knowledge Transfer & Documentation (1 week, 20-30 hours)
+### Phase 2: Knowledge Transfer & Documentation (2 weeks, 40-60 hours)
 
-#### Documentation (15-20 hours)
+#### Documentation (30-40 hours)
 - Technical documentation
 - System architecture overview
 - API documentation
 - User manual
 
-#### Knowledge Transfer (5-10 hours)
+#### Knowledge Transfer (10-20 hours)
 - Code walkthrough sessions
 - System demonstration
 - Training materials delivery
